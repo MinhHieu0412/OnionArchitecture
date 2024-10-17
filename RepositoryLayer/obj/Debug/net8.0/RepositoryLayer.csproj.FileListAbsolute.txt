@@ -1,0 +1,17 @@
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.runtimeconfig.json
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\ASP.Net\Day8\RepositoryLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.genruntimeconfig.cache
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
+D:\ASP.Net\Day8\RepositoryLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date

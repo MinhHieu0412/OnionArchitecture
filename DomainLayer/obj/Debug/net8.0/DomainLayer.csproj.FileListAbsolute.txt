@@ -1,0 +1,14 @@
+D:\ASP.Net\Day8\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\ASP.Net\Day8\DomainLayer\bin\Debug\net8.0\DomainLayer.runtimeconfig.json
+D:\ASP.Net\Day8\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\ASP.Net\Day8\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.AssemblyReference.cache
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\DomainLayer.genruntimeconfig.cache
+D:\ASP.Net\Day8\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

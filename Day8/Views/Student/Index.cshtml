@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ServiceLayer.Dto.StudentDto>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Student List</title>
+</head>
+<body>
+    <a asp-action="Create">Create Student</a>
+    <table>
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(m=>m.Id)</th>
+                 <th>@Html.DisplayNameFor(m=>m.FullName)</th>
+                <th>@Html.DisplayNameFor(m => m.Email)</th>
+                <th>@Html.DisplayNameFor(m => m.Phone)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(m => item.Id)</td>
+                        <td>@Html.DisplayFor(m => item.FullName)</td>
+                        <td>@Html.DisplayFor(m => item.Email)</td>
+                        <td>@Html.DisplayFor(m => item.Phone)</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4">No Student</td>
+                </tr>
+            }
+           
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,17 @@
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\RepositoryLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\ASP.Net\Day8\ServiceLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\ASP.Net\Day8\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
